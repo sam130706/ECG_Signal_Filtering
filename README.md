@@ -63,3 +63,10 @@ In this project:
 - Real-time ECG signal processing
 - Integration with IoT-based systems
 
+## Author
+Sampradha B Kumar  
+Electronics and Computer Engineering Student  
+
+## Note
+This project was initially developed as part of academic coursework and further enhanced to explore practical signal processing techniques.
+
